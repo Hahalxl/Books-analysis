@@ -18,5 +18,6 @@ $python -m pip install pandas
     <p>Report any bug please.</p>
   </ul>
   <p>This is a school project for software engineer</p>
+  <p>No more changes to the project.</p>
 </div>
 
